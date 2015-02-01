@@ -15,7 +15,7 @@ tags:
 PLY 是一个Python 的Lex/YACC 实现. 官方网站在这里<a href="http://www.dabeaz.com/ply/" title="An implementation of lex and yacc parsing tools for Python" target="_blank">http://www.dabeaz.com/ply/</a>  
 这学期有一门课叫 ” 计算机综合课程设计-基于MIPS16的SOC设计实践” ,其中有一部分是实现一个汇编器. 将MIPS汇编程序转换成Quartus 的mif 文件.
 
-这样的需求使用Lex/YACC 最合适不过, 本来是想使用Flex/Bison , 或上学期自己实现的<a href="http://blog.filia.cn/category/computer-science/compiler/lex/" title="我写的关于SEULex 的一些文章" target="_blank">lex</a>和yacc. 但是在尝试了一下后,决定放弃.原因在于C/C++ 对文本的操纵比较麻烦,另外yacc 的语义动作限制比较大. (主要是数据类型问题)
+这样的需求使用Lex/YACC 最合适不过, 本来是想使用Flex/Bison , 或上学期自己实现的<a href="http://blog.ftao.org/category/computer-science/compiler/lex/" title="我写的关于SEULex 的一些文章" target="_blank">lex</a>和yacc. 但是在尝试了一下后,决定放弃.原因在于C/C++ 对文本的操纵比较麻烦,另外yacc 的语义动作限制比较大. (主要是数据类型问题)
 
 而PLY 这个实现学习成本很低, 而且很Pythonic.加入符号表等等功能也很简单.  
 首先我们先来看我们要处理的汇编文件的格式.

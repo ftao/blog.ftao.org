@@ -22,4 +22,4 @@ tags:
 移动到下面是普通的显示.
 
  [1]: https://addons.mozilla.org/firefox/4014/
- [2]: http://blog.filia.cn/wp-content/uploads/2007/03/firefox-locationbar.jpg
+ [2]: http://blog.ftao.org/wp-content/uploads/2007/03/firefox-locationbar.jpg

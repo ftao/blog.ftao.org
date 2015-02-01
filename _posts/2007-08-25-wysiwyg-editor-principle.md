@@ -17,7 +17,7 @@ tags:
   - 所见即所得编辑器
   - 编程开发
 ---
-以前写过这篇文章, <a href="http://blog.filia.cn/2006/10/31/wysiwyg-editors/" rel="bookmark" title="到《几个WYSIWYG编辑器》的永久链接">几个WYSIWYG编辑</a>. 一致很好奇, 这样的可视化编辑器是如何实现? 功能那么多. 做了一点研究,发现事情并非如有原来所想. WYSIWYG编辑功能其实不是由这些编辑器来实现的,而是由浏览器自己实现, 这些编辑器只是进行了一些封装. (屏蔽不同浏览器的不同实现, 提供工具栏等等.)
+以前写过这篇文章, <a href="http://blog.ftao.org/2006/10/31/wysiwyg-editors/" rel="bookmark" title="到《几个WYSIWYG编辑器》的永久链接">几个WYSIWYG编辑</a>. 一致很好奇, 这样的可视化编辑器是如何实现? 功能那么多. 做了一点研究,发现事情并非如有原来所想. WYSIWYG编辑功能其实不是由这些编辑器来实现的,而是由浏览器自己实现, 这些编辑器只是进行了一些封装. (屏蔽不同浏览器的不同实现, 提供工具栏等等.)
 
   * 打开浏览器的编辑模式, 只要将要编辑的文档设置为 document.designMode = “On” .  
     访问<a href="https://www.squarefree.com/bookmarklets/misc.html#edit_page" target="_blank">这里</a> ,添加启用designMode的书签, 访问页面是点击书签就可以编辑页面了.

@@ -21,7 +21,7 @@ tags:
 
 下面贴一段Min-C 语言的抽象语法树.(图片比较大)
 
-[<img src="http://blog.filia.cn/wp-content/uploads/2007/06/ast.png" title="ast.png" dragover="true" alt="ast.png" height="130" width="411" />][1]
+[<img src="http://blog.ftao.org/wp-content/uploads/2007/06/ast.png" title="ast.png" dragover="true" alt="ast.png" height="130" width="411" />][1]
 
 对应的代码为  
 `<br />
@@ -44,4 +44,4 @@ m = x + y ;<br />
 }<br />
 `
 
- [1]: http://blog.filia.cn/wp-content/uploads/2007/06/ast.png "ast.png"
+ [1]: http://blog.ftao.org/wp-content/uploads/2007/06/ast.png "ast.png"

@@ -11,7 +11,7 @@ tags:
   - remote
   - upnp
 ---
-前天需要远程访问一台机器(或其所在局域网), 从 QQ 远程 -><a href="http://blog.filia.cn/wp-admin/www.loginany.com" target="_blank"> LoginAny</a>-> 端口映射 + openvpn 总算搞定.
+前天需要远程访问一台机器(或其所在局域网), 从 QQ 远程 -><a href="http://blog.ftao.org/wp-admin/www.loginany.com" target="_blank"> LoginAny</a>-> 端口映射 + openvpn 总算搞定.
 
 期间特别是端口映射部分，自己以前写的那个工具实在是太差劲,  找了好多个最后找个勉强能用的- <a href="http://sourceforge.net/projects/upnpportforward/" target="_blank">PortForward</a>
 

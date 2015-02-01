@@ -79,4 +79,4 @@ HLT 5 2 停机
 
 [tag]Mix[/tag],[tag]Computer[/tag],[tag]汇编[/tag],[tag]指令[/tag]
 
- [1]: http://blog.filia.cn/wp-content/uploads/2007/03/mix-reg.jpg
+ [1]: http://blog.ftao.org/wp-content/uploads/2007/03/mix-reg.jpg

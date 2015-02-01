@@ -18,5 +18,5 @@ douban 就是 <a href="http://www.douban.com/" target="_blank">douban</a> 啦.
 这个是我上图书馆网站时发现的.douban 作为书籍的相关资源,排在第一位.(比如<a href="http://www.lib.seu.edu.cn:8080/opac/item.php?marc_no=0000210769" target="_blank">这里</a>)  
 这个从一个侧面说明douban 的价值.
 
- [1]: http://blog.filia.cn/wp-content/uploads/2007/06/lib-douban.thumbnail.jpg
- [2]: http://blog.filia.cn/wp-content/uploads/2007/06/lib-douban.jpg "libsys and douban"
+ [1]: http://blog.ftao.org/wp-content/uploads/2007/06/lib-douban.thumbnail.jpg
+ [2]: http://blog.ftao.org/wp-content/uploads/2007/06/lib-douban.jpg "libsys and douban"

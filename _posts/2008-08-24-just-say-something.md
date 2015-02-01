@@ -41,6 +41,6 @@ categories:
 
 没多大意思。 回来的时候还遇到小偷，幸亏我人品好， 最后关头被我感觉到了。 背包拉链已经被拉开了。
 
-另外我用[PicasaWeb 插件][1] 搭了个<a href="http://blog.filia.cn/photo.html" target="_blank">相册</a>的页面。
+另外我用[PicasaWeb 插件][1] 搭了个<a href="http://blog.ftao.org/photo.html" target="_blank">相册</a>的页面。
 
  [1]: http://zhiqiang.org/blog/plugin/picasa
